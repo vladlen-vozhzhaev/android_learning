@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_text">2+2=4</string>
+    <string name="correct">Да</string>
+    <string name="incorrect">Нет</string>
+    <string name="correct_toast">Верно!</string>
+</resources>
