@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_text">2+2=4</string>
+    <string name="question_text1">9-8=3</string>
+    <string name="question_text2">5+4=9</string>
+    <string name="question_text3">5+5=8</string>
+    <string name="question_text4">2+7=10</string>
+    <string name="correct">Да</string>
+    <string name="incorrect">Нет</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+</resources>
